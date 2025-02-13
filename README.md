@@ -22,9 +22,6 @@ respond with
 ```bash
 y
 ```
-```bash
-cd blackjack
-```
 now you can run the program with the following command
 ```bash
 flask run
