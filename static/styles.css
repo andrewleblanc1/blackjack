@@ -1,0 +1,205 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+.card-dealer1{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 40%;
+    top: 15%;
+}
+.card-dealer2{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 42%;
+    top: 15%;
+}
+.card-dealer3{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 44%;
+    top: 15%;
+}
+.card-dealer4{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 46%;
+    top: 15%;
+}
+.card-dealer5{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 48%;
+    top: 15%;
+}
+.card-dealer6{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 50%;
+    top: 15%;
+}
+.card-dealer7{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 52%;
+    top: 15%;
+}
+.card-dealer8{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 54%;
+    top: 15%;
+}
+.card-dealer9{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 56%;
+    top: 15%;
+}
+.card-dealer10{
+    position:absolute;
+    height:150px;
+    width:130px;
+    left: 58%;
+    top: 15%;
+}
+.card-player1{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:40%;
+}
+.card-player2{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:42%;
+}
+.card-player3{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:44%;
+}
+.card-player4{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:46%;
+}
+.card-player5{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:48%;
+}
+.card-player6{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:50%;
+}
+.card-player7{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:52%;
+}
+.card-player8{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:54%;
+}
+.card-player9{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:56%;
+}
+.card-player10{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:58%;
+}
+.card-player11{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:60%;
+}
+.card-player12{
+    position:absolute;
+    height:150px;
+    width:130px;
+    top:50%;
+    left:62%;
+}
+#hit{
+    position:absolute;
+    top:70%;
+    left:45%;
+}
+#home{
+    position: fixed;
+    text-align: center;
+    bottom: 25%;
+    width: 100%;
+}
+#stand{
+    position:absolute;
+    top:70%;
+    left:50%;
+}
+.centerheader{
+    position: fixed;
+    text-align: center;
+    bottom: 55%;
+    width: 100%;
+}
+.footer{
+    position: fixed;
+    text-align: center;
+    bottom: 15%;
+    width: 100%;
+}
